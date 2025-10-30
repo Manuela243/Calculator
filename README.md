@@ -1,7 +1,7 @@
 # Calculator
 Calculator written in C#
 
-#Built with
+# Built with
 - C#
 <br>
 Everyone starts with a calculator, so I thought I should give it a try as well!
